@@ -76,3 +76,8 @@ Wi-Fi	wifi
 Apple ID	appleid
 QQ邮箱	qqyzxl
 U盘		upj
+我TMD	wotmd
+qbittorrent	qbit
+qBittorrent	qbit
+s店	sdm
+iRime	irime

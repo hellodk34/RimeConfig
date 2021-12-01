@@ -37,8 +37,8 @@ engine:
     - table_translator
     - punct_translator
   filters:
-    - uniquifier
-    - lua_filter@append_blank_filter
+    #- uniquifier
+    #- lua_filter@append_blank_filter
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA-_

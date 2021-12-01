@@ -210,4 +210,3 @@ patch:
 # Rx: BlindingDark/rime-lua-select-character:customize:schema=luna_pinyin {
   __include: lua_select_character:/patch
 # }
-
